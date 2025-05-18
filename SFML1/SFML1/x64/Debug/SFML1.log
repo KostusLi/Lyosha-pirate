@@ -1,0 +1,143 @@
+﻿Build started 19.05.2025 0:49:14.
+Logging verbosity is set to: Normal.     1>Project "C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\SFML1.vcxproj" on node 2 (Build target(s)).
+     1>PrepareForBuild:
+         Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+       InitializeBuildStatus:
+         Creating "SFML1\x64\Debug\SFML1.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+         Touching "SFML1\x64\Debug\SFML1.tlog\unsuccessfulbuild".
+       VcpkgTripletSelection:
+         Using triplet "x64-windows" from "C:\gRPC\vcpkg\installed\x64-windows\"
+         Using normalized configuration "Debug"
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\bin\HostX64\x64\CL.exe /c /I"C:\SFML-3.0.0\include" /I"C:\gRPC\vcpkg\installed\x64-windows\include" /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /std:c++20 /permissive- /Fo"SFML1\x64\Debug\\" /Fd"SFML1\x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt main.cpp
+         main.cpp
+     1>C:\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+         (compiling source file 'main.cpp')
+             C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+             see declaration of 'std::runtime_error'
+             C:\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
+             see declaration of 'sf::Exception'
+         
+     1>C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(12,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(29,21): warning C4834: discarding return value of function with [[nodiscard]] attribute
+     1>C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(30,22): warning C4834: discarding return value of function with [[nodiscard]] attribute
+     1>C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(31,22): warning C4834: discarding return value of function with [[nodiscard]] attribute
+     1>C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(32,21): warning C4834: discarding return value of function with [[nodiscard]] attribute
+     1>C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(165,53): warning C4244: '=': conversion from 'int64_t' to 'float', possible loss of data
+     1>C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(209,42): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(209,42): warning C4244:         with
+C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(209,42): warning C4244:         [
+C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(209,42): warning C4244:             T=float
+C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(209,42): warning C4244:         ]
+     1>C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(218,41): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(218,41): warning C4244:         with
+C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(218,41): warning C4244:         [
+C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(218,41): warning C4244:             T=float
+C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(218,41): warning C4244:         ]
+     1>C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(227,41): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(227,41): warning C4244:         with
+C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(227,41): warning C4244:         [
+C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(227,41): warning C4244:             T=float
+C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(227,41): warning C4244:         ]
+     1>C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(236,42): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(236,42): warning C4244:         with
+C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(236,42): warning C4244:         [
+C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(236,42): warning C4244:             T=float
+C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(236,42): warning C4244:         ]
+     1>C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(245,42): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(245,42): warning C4244:         with
+C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(245,42): warning C4244:         [
+C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(245,42): warning C4244:             T=float
+C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(245,42): warning C4244:         ]
+     1>C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(254,41): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(254,41): warning C4244:         with
+C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(254,41): warning C4244:         [
+C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(254,41): warning C4244:             T=float
+C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(254,41): warning C4244:         ]
+     1>C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(263,41): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(263,41): warning C4244:         with
+C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(263,41): warning C4244:         [
+C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(263,41): warning C4244:             T=float
+C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(263,41): warning C4244:         ]
+     1>C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(272,42): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(272,42): warning C4244:         with
+C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(272,42): warning C4244:         [
+C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(272,42): warning C4244:             T=float
+C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(272,42): warning C4244:         ]
+     1>C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(440,33): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+     1>C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(449,53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\x64\Debug\SFML1.exe" /INCREMENTAL /ILK:"SFML1\x64\Debug\SFML1.ilk" /NOLOGO /LIBPATH:"C:\SFML-3.0.0\lib" /LIBPATH:"C:\gRPC\vcpkg\installed\x64-windows\debug\lib" /LIBPATH:"C:\gRPC\vcpkg\installed\x64-windows\debug\lib\manual-link" "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" "sfml-audio-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib "C:\gRPC\vcpkg\installed\x64-windows\debug\lib\*.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\x64\Debug\SFML1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"mainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\x64\Debug\SFML1.lib" /MACHINE:X64 SFML1\x64\Debug\Full.obj
+         SFML1\x64\Debug\main.obj
+         SFML1\x64\Debug\Meteor.obj
+         SFML1\x64\Debug\MovingOfPasha.obj
+         SFML1.vcxproj -> C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\x64\Debug\SFML1.exe
+       AppLocalFromInstalled:
+         pwsh.exe -ExecutionPolicy Bypass -noprofile -File "C:\gRPC\vcpkg\scripts\buildsystems\msbuild\applocal.ps1" "C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\x64\Debug\SFML1.exe" "C:\gRPC\vcpkg\installed\x64-windows\debug\bin" "SFML1\x64\Debug\SFML1.tlog\SFML1.write.1u.tlog" "SFML1\x64\Debug\vcpkg.applocal.log"
+         "pwsh.exe" не является внутренней или внешней
+         командой, исполняемой программой или пакетным файлом.
+         The command "pwsh.exe -ExecutionPolicy Bypass -noprofile -File "C:\gRPC\vcpkg\scripts\buildsystems\msbuild\applocal.ps1" "C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\x64\Debug\SFML1.exe" "C:\gRPC\vcpkg\installed\x64-windows\debug\bin" "SFML1\x64\Debug\SFML1.tlog\SFML1.write.1u.tlog" "SFML1\x64\Debug\vcpkg.applocal.log"" exited with code 9009.
+         "C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe" -ExecutionPolicy Bypass -noprofile -File "C:\gRPC\vcpkg\scripts\buildsystems\msbuild\applocal.ps1" "C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\x64\Debug\SFML1.exe" "C:\gRPC\vcpkg\installed\x64-windows\debug\bin" "SFML1\x64\Debug\SFML1.tlog\SFML1.write.1u.tlog" "SFML1\x64\Debug\vcpkg.applocal.log"
+       FinalizeBuildStatus:
+         Deleting file "SFML1\x64\Debug\SFML1.tlog\unsuccessfulbuild".
+         Touching "SFML1\x64\Debug\SFML1.tlog\SFML1.lastbuildstate".
+     1>Done Building Project "C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\SFML1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+       "C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\SFML1.vcxproj" (Build target) (1) ->
+       (ClCompile target) -> 
+         C:\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+         C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(12,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+         C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(29,21): warning C4834: discarding return value of function with [[nodiscard]] attribute
+         C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(30,22): warning C4834: discarding return value of function with [[nodiscard]] attribute
+         C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(31,22): warning C4834: discarding return value of function with [[nodiscard]] attribute
+         C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(32,21): warning C4834: discarding return value of function with [[nodiscard]] attribute
+         C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(165,53): warning C4244: '=': conversion from 'int64_t' to 'float', possible loss of data
+         C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(209,42): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+       C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(209,42): warning C4244:         with
+       C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(209,42): warning C4244:         [
+       C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(209,42): warning C4244:             T=float
+       C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(209,42): warning C4244:         ]
+         C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(218,41): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+       C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(218,41): warning C4244:         with
+       C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(218,41): warning C4244:         [
+       C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(218,41): warning C4244:             T=float
+       C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(218,41): warning C4244:         ]
+         C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(227,41): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+       C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(227,41): warning C4244:         with
+       C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(227,41): warning C4244:         [
+       C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(227,41): warning C4244:             T=float
+       C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(227,41): warning C4244:         ]
+         C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(236,42): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+       C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(236,42): warning C4244:         with
+       C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(236,42): warning C4244:         [
+       C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(236,42): warning C4244:             T=float
+       C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(236,42): warning C4244:         ]
+         C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(245,42): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+       C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(245,42): warning C4244:         with
+       C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(245,42): warning C4244:         [
+       C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(245,42): warning C4244:             T=float
+       C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(245,42): warning C4244:         ]
+         C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(254,41): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+       C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(254,41): warning C4244:         with
+       C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(254,41): warning C4244:         [
+       C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(254,41): warning C4244:             T=float
+       C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(254,41): warning C4244:         ]
+         C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(263,41): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+       C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(263,41): warning C4244:         with
+       C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(263,41): warning C4244:         [
+       C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(263,41): warning C4244:             T=float
+       C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(263,41): warning C4244:         ]
+         C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(272,42): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+       C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(272,42): warning C4244:         with
+       C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(272,42): warning C4244:         [
+       C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(272,42): warning C4244:             T=float
+       C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(272,42): warning C4244:         ]
+         C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(440,33): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+         C:\Users\user\OneDrive\Рабочий стол\learn SFML\SFML1\main.cpp(449,53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+
+    17 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:04.12
