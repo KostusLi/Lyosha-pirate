@@ -5,3 +5,4 @@
 <p>M - on/off music</p>
 <p>Esc - Exit from game</p>
 <p>Tab - Pause/Continue playing</p>
+<p>WASD - Controlling spacemarine Pasha</p>
