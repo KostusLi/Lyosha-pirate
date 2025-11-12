@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn SFML\\SFML1\\",
+  "WorkspaceRootPath": "C:\\myGame\\Lyosha-pirate\\SFML1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D923ADC-5D1D-496A-8706-5A379579429D}|SFML1.vcxproj|C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn SFML\\SFML1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3D923ADC-5D1D-496A-8706-5A379579429D}|SFML1.vcxproj|C:\\myGame\\Lyosha-pirate\\SFML1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3D923ADC-5D1D-496A-8706-5A379579429D}|SFML1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D923ADC-5D1D-496A-8706-5A379579429D}|SFML1.vcxproj|C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn SFML\\SFML1\\Meteor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3D923ADC-5D1D-496A-8706-5A379579429D}|SFML1.vcxproj|C:\\myGame\\Lyosha-pirate\\SFML1\\Meteor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3D923ADC-5D1D-496A-8706-5A379579429D}|SFML1.vcxproj|solutionrelative:Meteor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D923ADC-5D1D-496A-8706-5A379579429D}|SFML1.vcxproj|C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn SFML\\SFML1\\MovingOfPasha.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3D923ADC-5D1D-496A-8706-5A379579429D}|SFML1.vcxproj|solutionrelative:MovingOfPasha.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D923ADC-5D1D-496A-8706-5A379579429D}|SFML1.vcxproj|C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn SFML\\SFML1\\Meteor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3D923ADC-5D1D-496A-8706-5A379579429D}|SFML1.vcxproj|solutionrelative:Meteor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D923ADC-5D1D-496A-8706-5A379579429D}|SFML1.vcxproj|C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn SFML\\SFML1\\MovingOfPasha.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3D923ADC-5D1D-496A-8706-5A379579429D}|SFML1.vcxproj|solutionrelative:MovingOfPasha.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D923ADC-5D1D-496A-8706-5A379579429D}|SFML1.vcxproj|C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn SFML\\SFML1\\Full.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3D923ADC-5D1D-496A-8706-5A379579429D}|SFML1.vcxproj|C:\\myGame\\Lyosha-pirate\\SFML1\\Full.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3D923ADC-5D1D-496A-8706-5A379579429D}|SFML1.vcxproj|solutionrelative:Full.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D923ADC-5D1D-496A-8706-5A379579429D}|SFML1.vcxproj|C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn SFML\\SFML1\\Full.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3D923ADC-5D1D-496A-8706-5A379579429D}|SFML1.vcxproj|C:\\myGame\\Lyosha-pirate\\SFML1\\MovingOfPasha.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D923ADC-5D1D-496A-8706-5A379579429D}|SFML1.vcxproj|solutionrelative:MovingOfPasha.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D923ADC-5D1D-496A-8706-5A379579429D}|SFML1.vcxproj|C:\\myGame\\Lyosha-pirate\\SFML1\\MovingOfPasha.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D923ADC-5D1D-496A-8706-5A379579429D}|SFML1.vcxproj|solutionrelative:MovingOfPasha.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D923ADC-5D1D-496A-8706-5A379579429D}|SFML1.vcxproj|C:\\myGame\\Lyosha-pirate\\SFML1\\Meteor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D923ADC-5D1D-496A-8706-5A379579429D}|SFML1.vcxproj|solutionrelative:Meteor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D923ADC-5D1D-496A-8706-5A379579429D}|SFML1.vcxproj|C:\\myGame\\Lyosha-pirate\\SFML1\\Full.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3D923ADC-5D1D-496A-8706-5A379579429D}|SFML1.vcxproj|solutionrelative:Full.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D923ADC-5D1D-496A-8706-5A379579429D}|SFML1.vcxproj|C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn SFML\\SFML1\\sfml-audio-3.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "AbsoluteMoniker": "D:0:0:{3D923ADC-5D1D-496A-8706-5A379579429D}|SFML1.vcxproj|C:\\myGame\\Lyosha-pirate\\SFML1\\sfml-audio-3.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{3D923ADC-5D1D-496A-8706-5A379579429D}|SFML1.vcxproj|solutionrelative:sfml-audio-3.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     }
   ],
@@ -48,11 +48,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn SFML\\SFML1\\main.cpp",
+              "DocumentMoniker": "C:\\myGame\\Lyosha-pirate\\SFML1\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn SFML\\SFML1\\main.cpp",
+              "ToolTip": "C:\\myGame\\Lyosha-pirate\\SFML1\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAOQBAAAAAAAAAAAAAOgBAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-16T20:34:42.462Z",
               "IsPinned": true,
@@ -62,14 +62,15 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "MovingOfPasha.h",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn SFML\\SFML1\\MovingOfPasha.h",
+              "DocumentMoniker": "C:\\myGame\\Lyosha-pirate\\SFML1\\MovingOfPasha.h",
               "RelativeDocumentMoniker": "MovingOfPasha.h",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn SFML\\SFML1\\MovingOfPasha.h",
+              "ToolTip": "C:\\myGame\\Lyosha-pirate\\SFML1\\MovingOfPasha.h",
               "RelativeToolTip": "MovingOfPasha.h",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-17T17:47:18.722Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -81,74 +82,79 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MovingOfPasha.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn SFML\\SFML1\\MovingOfPasha.cpp",
+              "DocumentMoniker": "C:\\myGame\\Lyosha-pirate\\SFML1\\MovingOfPasha.cpp",
               "RelativeDocumentMoniker": "MovingOfPasha.cpp",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn SFML\\SFML1\\MovingOfPasha.cpp",
+              "ToolTip": "C:\\myGame\\Lyosha-pirate\\SFML1\\MovingOfPasha.cpp",
               "RelativeToolTip": "MovingOfPasha.cpp",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-18T13:50:16.398Z"
+              "WhenOpened": "2025-05-18T13:50:16.398Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "sfml-audio-3.dll",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn SFML\\SFML1\\sfml-audio-3.dll",
+              "DocumentMoniker": "C:\\myGame\\Lyosha-pirate\\SFML1\\sfml-audio-3.dll",
               "RelativeDocumentMoniker": "sfml-audio-3.dll",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn SFML\\SFML1\\sfml-audio-3.dll",
+              "ToolTip": "C:\\myGame\\Lyosha-pirate\\SFML1\\sfml-audio-3.dll",
               "RelativeToolTip": "sfml-audio-3.dll",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
               "WhenOpened": "2025-05-18T13:37:21.64Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Full.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn SFML\\SFML1\\Full.cpp",
+              "DocumentMoniker": "C:\\myGame\\Lyosha-pirate\\SFML1\\Full.cpp",
               "RelativeDocumentMoniker": "Full.cpp",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn SFML\\SFML1\\Full.cpp",
+              "ToolTip": "C:\\myGame\\Lyosha-pirate\\SFML1\\Full.cpp",
               "RelativeToolTip": "Full.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-18T11:12:25.491Z"
+              "WhenOpened": "2025-05-18T11:12:25.491Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Full.h",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn SFML\\SFML1\\Full.h",
+              "DocumentMoniker": "C:\\myGame\\Lyosha-pirate\\SFML1\\Full.h",
               "RelativeDocumentMoniker": "Full.h",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn SFML\\SFML1\\Full.h",
+              "ToolTip": "C:\\myGame\\Lyosha-pirate\\SFML1\\Full.h",
               "RelativeToolTip": "Full.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-18T11:10:31.079Z"
+              "WhenOpened": "2025-05-18T11:10:31.079Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Meteor.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn SFML\\SFML1\\Meteor.cpp",
+              "DocumentMoniker": "C:\\myGame\\Lyosha-pirate\\SFML1\\Meteor.cpp",
               "RelativeDocumentMoniker": "Meteor.cpp",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn SFML\\SFML1\\Meteor.cpp",
+              "ToolTip": "C:\\myGame\\Lyosha-pirate\\SFML1\\Meteor.cpp",
               "RelativeToolTip": "Meteor.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-17T19:33:25.829Z"
+              "WhenOpened": "2025-05-17T19:33:25.829Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Meteor.h",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn SFML\\SFML1\\Meteor.h",
+              "DocumentMoniker": "C:\\myGame\\Lyosha-pirate\\SFML1\\Meteor.h",
               "RelativeDocumentMoniker": "Meteor.h",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn SFML\\SFML1\\Meteor.h",
+              "ToolTip": "C:\\myGame\\Lyosha-pirate\\SFML1\\Meteor.h",
               "RelativeToolTip": "Meteor.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-17T19:26:47.578Z"
+              "WhenOpened": "2025-05-17T19:26:47.578Z",
+              "EditorCaption": ""
             }
           ]
         }
